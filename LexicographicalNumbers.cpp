@@ -1,5 +1,6 @@
 
-// Display numbers in lexicographical order till N
+// Given a number N, print all the numbers from 1 to N in lexicographical order. 
+// 0, 1, 10, 100, 1000, 11, 12, 13...... "
 
 #include <iostream>
 using namespace std;
